@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+      "url": "git+https://github.com/lahirusanjeewa/QueenAmdi.git"
     },
     "keywords": [
       "whatsapp"
@@ -19,7 +19,7 @@
     "bugs": {
       "url": "https://github.com/BlackAmda/QueenAmdi/issues"
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "https://github.com/lahirusanjeewa/QueenAmdi#readme",
     "dependencies": {
       "@blackamda/queenamdi-web-api": "^1.0.2",
       "queenamdi-public": "^1.1.0",
